@@ -1,0 +1,37 @@
+.select{
+    background-color: #2F3644;
+    color: #29EBAA;
+    font-size: 1.2rem;
+    font-family: Heebo;
+    font-weight: 700;
+    border: 1px solid #29EBAA;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.cards-home .card-home {
+    display: flex;
+    max-width: 500px;
+}
+
+
+main .cards-home .card-home {
+    margin: 0 auto;
+
+    background-color: #2F3644;
+
+    padding: 30px 40px;
+    width: 600px;
+
+    border-radius: 7px;
+
+}
+
+.cards-home .card-home {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 15px;
+}
+
+

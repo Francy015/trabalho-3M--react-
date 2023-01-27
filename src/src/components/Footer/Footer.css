@@ -1,0 +1,24 @@
+.footer {
+    background-color: #2F3644;
+}
+
+.container-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    max-width: 1100px;
+    margin: 0 auto;
+
+    height: 200px;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul{
+    color: #D2DAF5;
+    font-family: heebo;
+    text-align: center;
+}
