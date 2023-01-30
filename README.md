@@ -1,4 +1,4 @@
-SOBRE O TRABALHO 
+# SOBRE O TRABALHO 
 
 -Projeto final do modulo 3 do programarores cariocas que consiste na criação de uma interface utilizando a biblioteca React com o objetivo de consumir os dados de um servidor JASON (criado no projeto individual do Modulo 3); usando AXIOS para fazer as requisições no servidor.
  
@@ -6,7 +6,7 @@ SOBRE O TRABALHO
  
  
  
- REQUISITOS COMPRIDOS:
+ ## REQUISITOS COMPRIDOS:
  
 Utilização dos endpoits do Json-server que foi criado no projeto 1;
 
@@ -19,12 +19,16 @@ Utilização dos metodos HTTP: GET, POST, PUT e DELETE;
 
 
 
-SQUAD:
+## SQUAD:
 
-francyelle izidoro,
-guilherme brito,
-nathalia amorin,
+francyelle izidoro
+
+guilherme brito
+
+nathalia amorin
+
 flavia tenório
+
 maria alice.
 
 
