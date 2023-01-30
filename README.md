@@ -22,9 +22,9 @@ Utilização dos metodos HTTP: GET, POST, PUT e DELETE;
 SQUAD:
 
 francyelle izidoro,
-guilherme 
+guilherme brito,
 nathalia amorin,
-flavia 
+flavia tenório
 maria alice.
 
 
